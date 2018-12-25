@@ -4,6 +4,8 @@
     @license Public GNU3 
 """
 
+#!/usr/bin/env Pyton3
+
 import random
 
 random.seed
